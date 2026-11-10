@@ -8,3 +8,4 @@ Veille quotidienne des vulnérabilités critiques : impact, correctif, commandes
 | 04/11/2026 | [CVE-2026-119977](2026-11-04_CVE-2026-119977.md) | WordPress (cœur) | Haute 8.1, exploitée |
 | 05/11/2026 | [CVE-2026-109518](2026-11-05_CVE-2026-109518.md) | APT (Debian, Ubuntu) | Haute 7.7 |
 | 09/11/2026 | [CVE-2026-19868](2026-11-09_CVE-2026-19868.md) | SonicWall SonicOS (SSLVPN) | 7.1, exploitée |
+| 10/11/2026 | [CVE-2026-125350](2026-11-10_CVE-2026-125350.md) | Google Chrome | Haute, exploitée |
