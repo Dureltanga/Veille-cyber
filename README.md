@@ -11,3 +11,4 @@ Veille quotidienne des vulnérabilités critiques : impact, correctif, commandes
 | 10/11/2026 | [CVE-2026-125350](2026-11-10_CVE-2026-125350.md) | Google Chrome | Haute, exploitée |
 | 11/11/2026 | [CVE-2026-124194](2026-11-11_CVE-2026-124194.md) | Microsoft Outlook | 6.5, exploitée |
 | 13/11/2026 | [CVE-2026-119618](2026-11-13_CVE-2026-119618.md) | Apache HTTP Server (mod_http2) | Critique |
+| 16/11/2026 | [CVE-2026-99288](2026-11-16_CVE-2026-99288.md) | Noyau Linux (TCP) | Importante, DoS à distance |
